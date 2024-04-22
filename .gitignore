@@ -1,0 +1,4 @@
+//this .gitignore files contains files that are not pushed up to github
+.env
+node_modules
+.encryptedKey.json
